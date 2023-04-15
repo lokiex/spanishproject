@@ -1,0 +1,126 @@
+body {
+	font-weight: 60;
+}
+/* @media(max width: 1000px 768px 425px 320px) {
+}
+*/
+ul{
+	list-style-type:circle;
+	padding: 0;
+	margin: 0 important!;
+}
+li{
+	margin: 0;
+	padding: 0 important!;
+}
+a:hover {
+	color: #aaa;
+	text-decoration: none
+}
+/* p::first-letter {
+	font-size: 300%;
+}
+*/
+.border{
+	border: 1px outset #1C6EA4;
+	border-radius: 40px 0px 40px 0px;
+	width: 200px;
+	margin-left: 10px;
+	text-align: center;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+.time {
+	display:inline-block;
+	flex-direction: row;
+}
+.flexible{
+	margin-left: 15px;
+	display:flex;
+	flex-direction: row;
+	border:1px;
+	flex-wrap: wrap;
+	position: relative;
+	padding: 10px;
+	border-radius: 50px 0px;
+	align-self:baseline;
+}
+.top {
+	color: blue;
+
+}
+.flexiblec{
+	margin: 20px 50px ;
+	word-spacing: 0px;
+	line-height: 20px;
+	max-width: 350px;
+	border:solid 1px;
+	border-color:#f3221870;
+	padding: 20px;
+	border-radius: 50px 0px;
+	align-self:baseline;
+}
+.content{
+    box-shadow: -2px 7px 14px 6px rgba(104,104,104,0.42);
+	margin: 20px 50px ;
+	word-spacing: 2px;
+	width: auto;
+	
+    border-radius: 50px;
+	padding: 20px;
+	align-self:baseline;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 0;
+	font-size: 18px;
+}
+h2, h4,{
+	color:darkslategray;
+	font-family: serif;
+	line-height: 80px important!;
+}
+div > p{
+	padding: 20px;
+}
+b,strong {
+	color:darkred;
+	font-family: serif;
+	font-size: 20px
+}
+h1,h3 {
+	color: darkred;
+}
+.lnaviles{
+	display:flex;
+	flex-direction: row;
+	border:1px;
+	flex-wrap: wrap;
+	margin: 20px 90px;
+	word-spacing: 2px;
+	max-width: 550px;
+	border:solid 0px;
+	padding: 20px;
+	border-radius: 15% 0% 10% 0%;
+	align-self:baseline;
+	background-color: #e6e6e6;
+	float: left;
+	position: relative;
+}
+.rnaviles{
+	display:flex;
+	flex-direction: row;
+	border:1px;
+	flex-wrap: wrap;
+	margin: 20px 50px ;
+	word-spacing: 2px;
+	max-width: 550px;
+	border:solid 0px;
+	padding: 20px;
+	border-radius: 15% 0% 10% 0%;
+	align-self:baseline;
+	background-color: #e6e6e6;
+	float:right;
+	position: relative;
+}
