@@ -1,0 +1,125 @@
+If a feminine word begins with a or ha with a stress on them, then the article la changes to el although the word still remains feminine and in the plural form the usual article las is used.
+380
+
+div.subheading
+{
+max-width:  300px !important;
+overflow-wrap: break-word !important;
+box-shadow: 2px 2px 7px 1px #A49B61;
+  padding: 10px;
+margin-top: 20px;
+text-align: center;
+margin-left: 40%;
+height: 20px;
+opacity: 1;
+background-color: white;
+}
+div.heading{
+width: 100px !important;
+overflow-wrap: break-word !important;
+word-wrap: normal !important;
+  box-shadow: 2px 2px 7px 1px #A49B61;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 40%;
+height: auto;
+opacity: 1;
+background-color: white;
+display: inline-block !important;
+}
+div.sentence{
+overflow-wrap: break-word !important;
+max-width: 350px !important;
+  box-shadow: 2px 2px 7px 1px #A49B61;
+  margin-left: 40%;
+  padding: 10px;
+  margin-top: 20px;
+height: auto;
+opacity: 1;
+background-color: white;
+}
+
+nouns.php
+gender.php
+plurals.php
+articles.php
+types_articles.php
+definite_articles_spanish.php
+indefinite_articles_spanish.php
+lo_article_spanish.php
+adjectives_spanish.php
+adj_plu_match.php
+adj_word_order.php
+adj_com_sup.php
+adj_demo.php
+adj_int.php
+adj_exclamation.php
+
+adverbs.php
+
+articles.php
+
+pronouns.php
+
+nq.php
+
+propositions.php
+
+verbs.php
+
+stress.php
+
+
+dele.php
+a1.php
+a2.php
+b1.php
+b2.php
+c1.php
+
+coloursnsizes.php
+emotionsnmoods.php
+timendate.php
+numerals.php
+nations.php
+guess.php
+greet.php
+food.php
+vegnfruits.php
+weightsnsizes.php
+birdsnanimals.php
+
+quicklearn.php
+listen.php
+
+restaurant.php
+football.php
+vacation.php
+plane.php
+train.php
+Bus.php
+Supermarket.php
+goshopping.php
+hindi.php
+Culture.php
+sports.php
+music.php
+movies.php
+dance.php
+spanishidioms.php
+spanishgeo.php
+
+askreply.php
+
+query.php
+serestar.php
+Courses.php
+fulltimecourses.php
+pcourses.php
+online.php
+trial course
+how it works
+test your knowledge
+tags

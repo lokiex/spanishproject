@@ -1,0 +1,184 @@
+Pronouns Infinite	Spanish Infinite Pronouns - Speaking about the Unspecified
+Anybody, Somebody, Everybody, Nobody, None, Some, Any etc.
+Adjectives Possesives	Spanish Possesive Adjectives - Speaking of who owns it.
+My, Your, His, Her, Our, Your, Their
+Adjectives Possessives	Spanish Possesive Adjectives - Speaking of who owns it
+Pronouns object pronouns+	Spanish Object Pronouns - Speaking about the receiver of the actions. Me, you, him, her, it, us, them
+Pronouns object pronouns order	Spanish Object Pronouns - Order
+Pronouns Personal  Direct obj	Spanish Direct Object Pronouns- Speaking about the direct receiver of the actions. 
+Pronouns personal Indirect obj	Spanish Indirect Object Pronouns-  Speaking about where the direct object is going.
+Pronouns Subject 2	Spanish Subject Pronouns - Tagging people. I you he she we you all they.
+Pronouns after prepositions	Spanish Pronouns- Speaking about the after receiver of the actions.
+Pronouns Relative	Spanish Relative Pronouns - Tagging people. I you he she we you all they.
+Interrogatives 2	Spanish Interrogatives - Asking Questions in Spanish.
+Interrogatives Por qué	Spanish Why - About the Spanish Why.
+Interrogatives Qué+sust,cual-es	
+Interrogatives Table	Spanish Interrogatives - Asking Questions in Spanish.
+Interrogatives details	Spanish details Interrogatives - Tagging people. I you he she we you all they.
+Interrogative adjectives	Spanish adjectives Interrogative - Tagging people. I you he she we you all they.
+Verbs Ser and estar 1	
+Verbs SER vs ESTAR	Spanish vs Object Verbs- Speaking about the vs receiver of the actions.
+Verbs SER ESTAR PICTORIAL	Spanish ESTAR Object Verbs- Speaking about the estar receiver of the actions.
+Tricks SER ESTAR	Spanish SER Object Tricks- Speaking about the ser receiver of the actions.
+Conj Hablar,Comprender,Escribir	Spanish Comprender Object Conj- Speaking about the comprender receiver of the actions.
+Conj tricks all tenses REG	
+Conjugations tips	Spanish tips Conjugations - Tagging people. I you he she we you all they.
+Conjugations Pictorials	Spanish Pictorials Conjugations - Tagging people. I you he she we you all they.
+Verbs Conjugations	Spanish Conjugations Verbs - Tagging people. I you he she we you all they.
+Verbs conjugated table	Spanish Verbs- Speaking about the conjugated receiver of the actions.
+Conjugations Preterito Perfecto	Spanish Preterito Object Conjugations- Speaking about the preterito receiver of the actions.
+Verbs Conj ALL ar,er,ir	Spanish er Object Verbs- Speaking about the er receiver of the actions.
+Infinitive with Preposition	
+Verbs Overview	Spanish Overview Verbs - Tagging people. I you he she we you all they.
+Verbs Notes	Spanish Notes Verbs - Tagging people. I you he she we you all they.
+Verbs table Vertical 1	Spanish table Object Verbs-  Speaking about where the  object is going.
+Verbs table Horizontal	
+Verbs list	Spanish list Verbs - Tagging people. I you he she we you all they.
+Verbs list 2	Spanish list Verbs - Tagging people. I you he she we you all they.
+Verbs basic	Spanish basic Verbs - Tagging people. I you he she we you all they.
+Verbs explained	Spanish explained Verbs - Tagging people. I you he she we you all they.
+Verb Gustar	Spanish Gustar Verb - Tagging people. I you he she we you all they.
+Verbs Poner  Traer Restaurants	Spanish Traer Object Verbs- Speaking about the traer receiver of the actions.
+Verbs Ser Tener y Llamarse	Spanish y Object Verbs- Speaking about the y receiver of the actions.
+Verb Tener	Spanish Tener Verb - Tagging people. I you he she we you all they.
+Verb Estar Location	Spanish Estar Object Verb- Speaking about the estar receiver of the actions.
+Verbs preposition combinations	Spanish Verbs- Speaking about the preposition receiver of the actions.
+Verbs with prepositions	Spanish Verbs- Speaking about the with receiver of the actions.
+Verbs with a prep	Spanish a Object Verbs-  Speaking about where the ith a object is going.
+Verbs with con prep	Spanish con Object Verbs-  Speaking about where the h con object is going.
+Verbs with de prep	Spanish de Object Verbs-  Speaking about where the th de object is going.
+Verbs with en prepositions	Spanish en Object Verbs-  Speaking about where the itions object is going.
+Verbs with para prepositions	Spanish para Object Verbs-  Speaking about where the ositio object is going.
+Verbs with Por Prepositions	Spanish Por Object Verbs- Speaking about the por receiver of the actions.
+Perpositions after verbs	Spanish Perpositions- Speaking about the after receiver of the actions.
+Verbs reflexives 1	Spanish reflexives Verbs - Tagging people. I you he she we you all they.
+Verbs Reflexive 2	Spanish Reflexive Verbs - Tagging people. I you he she we you all they.
+Verbs Reflexive or Reciprocal	Spanish or Object Verbs- Speaking about the or receiver of the actions.
+Verbs Reciprocal	Spanish Reciprocal Verbs - Tagging people. I you he she we you all they.
+Verbal Idioms	Spanish Idioms Verbal - Tagging people. I you he she we you all they.
+Verb Querer	Spanish Querer Verb - Tagging people. I you he she we you all they.
+Verbs Defective	Spanish Defective Verbs - Tagging people. I you he she we you all they.
+Verbs Transitive Intransitive	Spanish Transitive Object Verbs- Speaking about the transitive receiver of the actions.
+Verbs Copulative	Spanish Copulative Verbs - Tagging people. I you he she we you all they.
+Verbs Past participles	
+Verbs Auxilary	Spanish Auxilary Verbs - Tagging people. I you he she we you all they.
+Verbs Irregular IR endings	Spanish IR Object Verbs- Speaking about the ir receiver of the actions.
+Verbs irregular YO forms	Spanish YO Object Verbs-  Speaking about where the r YO object is going.
+Verbs irregular	Spanish irregular Verbs - Tagging people. I you he she we you all they.
+Verbs Impersonal	Spanish Impersonal Verbs - Tagging people. I you he she we you all they.
+Negatives	Spanish Negatives - Tagging people. I you he she we you all they.
+Negatives Neither nor	
+Negatives Ningun, Nada Nadie	Spanish Nada Object Negatives- Speaking about the nada receiver of the actions.
+Conjunctions y o pero porque si	Spanish Conjunctions- Speaking about the porque receiver of the actions.
+Conjuntions Other common ones	Spanish common Object Conjuntions-  Speaking about where the mmon object is going.
+Conjunctions Split	Spanish Split Conjunctions - Tagging people. I you he she we you all they.
+adjectives placement	Spanish placement adjectives - Tagging people. I you he she we you all they.
+Adjectives Comp Sup	Spanish Comp Object Adjectives- Speaking about the comp receiver of the actions.
+Adj Comparatives Supelatives	Spanish Comparatives Object Adj- Speaking about the comparatives receiver of the actions.
+Adjectives uses	Spanish uses Adjectives - Tagging people. I you he she we you all they.
+Adjectives used in Exclamations	Spanish in Object Adjectives-  Speaking about where the xclama object is going.
+Adjectives Agreement	Spanish Agreement Adjectives - Tagging people. I you he she we you all they.
+Adjectives order	Spanish order Adjectives - Tagging people. I you he she we you all they.
+Adjectives Demonstrative	Spanish Demonstrative Adjectives - Tagging people. I you he she we you all they.
+Cuantificadores	Spanish Cuantificadores - Tagging people. I you he she we you all they.
+Graduar	Spanish Graduar - Tagging people. I you he she we you all they.
+Gerund	Spanish Gerund - Tagging people. I you he she we you all they.
+Gerunds IRREGULARS	Spanish IRREGULARS Gerunds - Tagging people. I you he she we you all they.
+Bastante	Spanish Bastante - Tagging people. I you he she we you all they.
+Adjectives Indefinite Más Menos	Spanish Más Object Adjectives- Speaking about the más receiver of the actions.
+Adjectives Indefinite Mucho muy	Spanish Mucho Object Adjectives- Speaking about the mucho receiver of the actions.
+Adjectives Indefinite Poco poca	Spanish Poco Object Adjectives- Speaking about the poco receiver of the actions.
+Articles indefinite Uno Unas	Spanish Uno Object Articles- Speaking about the uno receiver of the actions.
+Adjective Indefinite Varios	Spanish Indefinite Object Adjective- Speaking about the indefinite receiver of the actions.
+Adjective Indefinite Alguno-a	Spanish Alguno Object Adjective- Speaking about the alguno receiver of the actions.
+Adjectives Indefinite	Spanish Indefinite Adjectives - Tagging people. I you he she we you all they.
+Adverb of place There Hay	Spanish There Object Adverb- Speaking about the there receiver of the actions.
+Adjectives Possesive	Spanish Possesive Adjectives - Tagging people. I you he she we you all they.
+Adverbs Sequence	Spanish Sequence Adverbs - Tagging people. I you he she we you all they.
+Imperatives	Spanish Imperatives - Tagging people. I you he she we you all they.
+Imperatives Affirmatives IRREG	Spanish Affirmatives Object Imperatives- Speaking about the affirmatives receiver of the actions.
+Imperatives Negatives IRREG	Spanish Negatives Object Imperatives- Speaking about the negatives receiver of the actions.
+Prepositions use	Spanish use Prepositions - Tagging people. I you he she we you all they.
+Prepositions	Spanish Prepositions - Tagging people. I you he she we you all they.
+Prepositions a de en para por	Spanish Prepositions- Speaking about the para receiver of the actions.
+Preposition A	Spanish A Preposition - Tagging people. I you he she we you all they.
+Prepositions other common	Spanish Prepositions- Speaking about the other receiver of the actions.
+Prepositions with Querer	
+Tricks Por Vs Para	Spanish Vs Object Tricks- Speaking about the vs receiver of the actions.
+Passive	Spanish Passive - Tagging people. I you he she we you all they.
+Vocabulary Directions	Spanish Directions Vocabulary - Tagging people. I you he she we you all they.
+Sentence Contrasting Likes	Spanish Contrasting Object Sentence- Speaking about the contrasting receiver of the actions.
+Sentence Ask about likes	Spanish about Object Sentence-  Speaking about where the  object is going.
+Interrogatives Ask and Reply	Spanish and Object Interrogatives- Speaking about the and receiver of the actions.
+Sentence formation hints	Spanish Sentence- Speaking about the formation receiver of the actions.
+Sentence formations Tips2	
+Sentence Common phrases	
+Sentence Common phr fr trvllrs	
+Time Temporal Expresions	Spanish Temporal Object Time- Speaking about the temporal receiver of the actions.
+Time Day times SituarseEnElDia	Spanish times Object Time- Speaking about the times receiver of the actions.
+Time	Spanish Time - Tagging people. I you he she we you all they.
+Time telling the Time	Spanish the Object Time-  Speaking about where the g the object is going.
+Tense Subjunctive	Spanish Subjunctive Tense - Tagging people. I you he she we you all they.
+Tense Subjunctive imperfect REG	Spanish imperfect Object Tense- Speaking about the imperfect receiver of the actions.
+Tense Subjunctive imperfect IRR	Spanish imperfect Object Tense- Speaking about the imperfect receiver of the actions.
+Tense Subjunctive Present IRREG	Spanish Present Object Tense- Speaking about the present receiver of the actions.
+Tense Future Irregular	Spanish Future Object Tense- Speaking about the future receiver of the actions.
+Tense Future	Spanish Future Tense - Tagging people. I you he she we you all they.
+Participles reg Irregular	
+Tense Pluperfect-Past perfect	Spanish Past Object Tense- Speaking about the past receiver of the actions.
+Tense Present simple tense	Spanish simple Object Tense-  Speaking about where the  object is going.
+Tense Conditional	Spanish Conditional Tense - Tagging people. I you he she we you all they.
+Tense Imperfect	Spanish Imperfect Tense - Tagging people. I you he she we you all they.
+Tense Imperfect IRREGULAR	Spanish Imperfect Object Tense- Speaking about the imperfect receiver of the actions.
+Tense Perfect	Spanish Perfect Tense - Tagging people. I you he she we you all they.
+Tense Perfect IRREGULARS	Spanish Perfect Object Tense- Speaking about the perfect receiver of the actions.
+Tense Present continuous	
+Tense Present (All)	Spanish Present Object Tense- Speaking about the present receiver of the actions.
+Tense Past irregular	
+Tense Pretérito 18 Irregular	Spanish Pretérito Object Tense- Speaking about the pretérito receiver of the actions.
+Tense Pretérito Indefinido	Spanish Pretérito Object Tense- Speaking about the pretérito receiver of the actions.
+Tense Pretérito 1	Spanish Pretérito Tense - Tagging people. I you he she we you all they.
+Tense Preterite 2	Spanish Preterite Tense - Tagging people. I you he she we you all they.
+Pretérito Indefinido formula	
+Pretérito indef same = SER & IR	Spanish & Object Pretérito- Speaking about the & receiver of the actions.
+Tense preterito perfecto	Spanish Tense- Speaking about the preterito receiver of the actions.
+Tense preterite Spelling change	Spanish Spelling Object Tense-  Speaking about where the ling object is going.
+Tips Same words diff meanings	
+Vocabulary BodyPart MedicStdnts	Spanish BodyPart Object Vocabulary- Speaking about the bodypart receiver of the actions.
+Vocabulary beach items	Spanish Vocabulary- Speaking about the beach receiver of the actions.
+Vocabulary Aspecto Físico	Spanish Aspecto Object Vocabulary- Speaking about the aspecto receiver of the actions.
+Volcabulary Body parts	
+Vocabulary Carácter	Spanish Carácter Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Clothes	Spanish Clothes Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Clothes complete	
+Vocabulary Colours	Spanish Colours Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Computer parts (2)	Spanish Computer Object Vocabulary-  Speaking about where the parts object is going.
+Vocabulary meals of the day	Spanish Vocabulary- Speaking about the the receiver of the actions.
+Vocabulary Educationl qaulfctns	
+Vocabulary Climate	Spanish Climate Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary household stuff	Spanish Vocabulary- Speaking about the household receiver of the actions.
+Vocabulary Greetings	Spanish Greetings Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Physical attributes	
+VocabularyPhysical attributes 2	
+VocabularyEmotions descriptions	
+Vocabulary Hobbies	Spanish Hobbies Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Family	Spanish Family Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Nationalities	Spanish Nationalities Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Professions	Spanish Professions Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Greetings 2	Spanish Greetings Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Seasons	Spanish Seasons Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Spanish Restaurant	Spanish Spanish Object Vocabulary- Speaking about the spanish receiver of the actions.
+Vocabulary mixed	Spanish mixed Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary Vices	Spanish Vices Vocabulary - Tagging people. I you he she we you all they.
+Vocabulary General	Spanish General Vocabulary - Tagging people. I you he she we you all they.
+Sentence Weather expressions	
+Sentence Character description	
+Sentences All about me	Spanish about Object Sentences-  Speaking about where the l about object is going.
+Vocabulary House	Spanish House Vocabulary - Tagging people. I you he she we you all they.
+Nouns	Spanish Nouns - Tagging people. I you he she we you all they.
+Number Ordinal 1	Spanish Ordinal Number - Tagging people. I you he she we you all they.
+Numbers 1	Spanish Numbers - Tagging people. I you he she we you all they.
+Numbers 2	Spanish Numbers - Tagging people. I you he she we you all they.
+Numbers Ordinal 2	Spanish Ordinal Numbers - Tagging people. I you he she we you all they.
+Diminutivos	Spanish Diminutivos - Tagging people. I you he she we you all they.
+Tenses Marcadores Temporales	Spanish Marcadores Object Tenses- Speaking about the marcadores receiver of the actions.

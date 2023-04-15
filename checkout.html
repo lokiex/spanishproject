@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html class="no-js">
+    
+    <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	     
+  <SCRIPT SRC="language-en.js"></SCRIPT>
+<SCRIPT SRC="nopcart.js">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-7">
+  //=====================================================================||
+  //               NOP Design JavaScript Shopping Cart                   ||
+  //                                                                     ||
+  // For more information on SmartSystems, or how NOPDesign can help you ||
+  // Please visit us on the WWW at http://www.nopdesign.com              ||
+  //                                                                     ||
+  // JavaScript Shop Module, V.4.4.0                                     ||
+  //=====================================================================||
+</SCRIPT>
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <meta name="author" content="Luis">
+<style>
+	<!--
+
+@media only screen 
+   and (min-width : 900px) {
+   /* Styles here */
+
+body{
+    background: white;
+	align: center;
+	font-face: garamond;
+    background: url("flamencosm.jpg")repeat-y scroll 100% 0%;
+	align: center;
+	height: 100%;
+    padding-top: 10;
+	padding-bottom: 0;
+}
+div.card {
+  width: 900px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 200px;
+  margin-top: 20px !important;
+  height: 700px;
+  word-wrap: normal;
+	align: center;
+	line-height: 300%;
+	padding: 40px;
+  }
+  div.card1 {
+  width: 220px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 50px;
+  margin-top: 20px;
+  height: 400px;
+  padding: 10px !important;
+  word-wrap: normal;
+  display: inline-block;
+  }
+  div.card2 {
+  width: 900px;
+}
+div.card3 {
+  width: 200px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 50px;
+  margin-top: 20px;
+  height: 200px;
+  display: inline-block;
+}
+
+div.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0px;
+    font-size: 20px;
+	word-wrap: break-word;
+}
+div.headerarticle {
+    background-color: #7d00fb;
+    color: white;
+    padding: 0px;
+    font-size: 20px;
+	
+}
+
+div.container {
+    padding: 10px !important;
+	word-wrap: normal !important;
+	width: auto !important;
+}
+.capbox {
+	background-color: #92D433;
+	border: #B3E272 0px solid;
+	border-width: 0px 12px 0px 0px;
+	display: inline-block;
+	*display: inline; zoom: 1; /* FOR IE7-8 */
+	padding: 8px 40px 8px 8px;
+	}
+
+.capbox-inner {
+	font: bold 11px arial, sans-serif;
+	color: #000000;
+	background-color: #DBF3BA;
+	margin: 5px auto 0px auto;
+	padding: 3px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	}
+
+#CaptchaDiv {
+	font: bold 17px verdana, arial, sans-serif;
+	font-style: italic;
+	color: #000000;
+	background-color: #FFFFFF;
+	padding: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	}
+
+#CaptchaInput { margin: 1px 0px 1px 0px; width: 135px; }
+
+   }
+-->
+</style>
+        <title>Enviar Formulario</title>       
+    </head>
+    <html>
+<style>
+	<!--
+
+@media screen and (max-width: 480px)
+
+{
+
+.screen-only
+
+{
+
+display: none;
+
+}
+
+
+
+.mobile-only
+
+{
+
+display: block;
+
+}
+
+
+}
+div.checkout {
+    width: 600px;
+	display: inline-block;
+	margin-left: 20px;
+	}
+div.details {
+	float: right;
+	display: inline-block;
+	width: 450px;
+	}
+	
+   -->
+   </style>
+    <body bgcolor="white">
+                        
+
+						<form name="contactform" method="post" action="http://www.deepaentsourcing.com/cgi-bin/FormMail.pl" onsubmit="return checkform(this);"><input type=hidden name="recipient" value="info@deepaentsourcing.com">
+    <br>
+	<h1>Su compra</h1>
+	<br>
+	<br>
+	<div class ="checkout">
+	<SCRIPT>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-7">
+        CheckoutCart();
+    </SCRIPT>
+	</div>
+	&nbsp;
+	<div class="checkout">
+<table width="450px">
+<tr>
+ <td valign="top">
+  <label for="first_name">First Name *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="first_name" maxlength="50" size="30">
+ </td>
+</tr>
+<tr>
+ <td valign="top"">
+  <label for="last_name">Nombre *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="last_name" maxlength="50" size="30">
+ </td>
+</tr>
+<tr>
+ <td valign="top">
+  <label for="email">Email *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="email" maxlength="80" size="30">
+ </td>
+</tr>
+<tr>
+ <td valign="top">
+  <label for="telephone">Telefono</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="telephone" maxlength="30" size="30">
+ </td>
+</tr>
+<tr>
+ <td valign="top">
+  <label for="comments">Observaciones *</label>
+ </td>
+ <td valign="top">
+  <textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
+ </td>
+</tr>
+<tr>
+ <td colspan="2" style="text-align:center">
+<!-- START CAPTCHA -->
+<br>
+<div class="capbox">
+
+<div id="CaptchaDiv"></div>
+
+<div class="capbox-inner">
+Teclea el numero de arriba:<br>
+
+<input type="hidden" id="txtCaptcha">
+<input type="text" name="CaptchaInput" id="CaptchaInput" size="15"><br>
+
+</div>
+</div>
+<br><br>
+<!-- END CAPTCHA -->
+ <input type="submit" value="Submit">
+ </td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+<script type="text/javascript">
+
+// Captcha Script
+
+function checkform(theform){
+var why = "";
+
+if(theform.CaptchaInput.value == ""){
+why += "- Please Enter CAPTCHA Code.\n";
+}
+if(theform.CaptchaInput.value != ""){
+if(ValidCaptcha(theform.CaptchaInput.value) == false){
+why += "- The CAPTCHA Code Does Not Match.\n";
+}
+}
+if(why != ""){
+alert(why);
+return false;
+}
+}
+
+var a = Math.ceil(Math.random() * 9)+ '';
+var b = Math.ceil(Math.random() * 9)+ '';
+var c = Math.ceil(Math.random() * 9)+ '';
+var d = Math.ceil(Math.random() * 9)+ '';
+var e = Math.ceil(Math.random() * 9)+ '';
+
+var code = a + b + c + d + e;
+document.getElementById("txtCaptcha").value = code;
+document.getElementById("CaptchaDiv").innerHTML = code;
+
+// Validate input against the generated number
+function ValidCaptcha(){
+var str1 = removeSpaces(document.getElementById('txtCaptcha').value);
+var str2 = removeSpaces(document.getElementById('CaptchaInput').value);
+if (str1 == str2){
+return true;
+}else{
+return false;
+}
+}
+
+// Remove the spaces from the entered and generated code
+function removeSpaces(string){
+return string.split(' ').join('');
+}
+</script>        <!--/.fluid-container-->
+        <script src="bootstrap/js/jquery-1.9.1.min.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script src="assets/scripts.js"></script>
+      </html>
