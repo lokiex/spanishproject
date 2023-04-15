@@ -1,0 +1,33 @@
+<?php					
+include "menux.php";					
+$heading	=	"	Gender	"	;
+$subheading	=	"	Animals	"	;
+$definition1	=	"	There are seperate words for male and female animals for some animals but not all.	"	;
+$definition2	=	"	Sometimes, the same word with different endings is used for male and female animals.	"	;
+$definition3	=	"	When you do not know or care what sex the animal is, you can usually use the masculine form as a general word.	"	;
+$definition4=    "Words for other animals don’t change according to the sex of the animal. Just learn the Spanish word with its gender, which is always the same.	"	;
+$english1	=	"	the bull	"	;
+$explain1	=	"	in Spanish is	"	;
+$spanish1	=	"	el toro	"	;
+$english2	=	"	the cow	"	;
+$explain2	=	"	 in Spanish is	"	;
+$spanish2	=	"	la vaca	"	;
+$english3	=	"	the (male) dog	"	;
+$explain3	=	"	 in Spanish masculine is	"	;
+$spanish3	=	"	el perro	"	;
+$english4	=	"	the (female) dog, bitch	"	;
+$explain4	=	"	 in Spanish feminine is	"	;
+$spanish4	=	"	la perra	"	;
+$english5	=	"	the toad	"	;
+$explain5	=	"	in Spanish is	"	;
+$spanish5	=	"	el sapo	"	;
+$english6	=	"	the hamster	"	;
+$explain6	=	"	in Spanish is	"	;
+$spanish6	=	"	el hámster	"	;
+$english7	=	"	the guinea pig	"	;
+$explain7	=	"	in Spanish is	"	;
+$spanish7	=	"	la cobaya	"	;
+$english8	=	"	the tortoise	"	;
+$explain8	=	"	in Spanish is	"	;
+$spanish8	=	"	la tortuga	";
+?>
